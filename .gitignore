@@ -1,0 +1,11 @@
+# Módulos de node
+node_modules
+
+# Variables de entorno
+.env
+
+#vscode
+.vscode
+
+# testing
+coverage
